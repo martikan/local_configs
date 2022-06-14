@@ -1,4 +1,5 @@
 alias ll="ls -al"
+alias lls="ls -al | grep"
 alias his="history | grep"
 alias gl="git log --decorate --oneline --graph"
 alias gd="git diff"
